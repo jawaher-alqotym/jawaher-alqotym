@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jawaher-alqotym
 - 👀 I’m interested in data science, system analysis and design
 - 🌱 I’m currently learning Python for data science and artificial intelligence
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me jwahralqtym@gmail.com
 
 <!---
