@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jawaher-alqotym
-- 👀 I’m interested in data science, system analysis, and system design
+- 👀 I’m interested in data science.
 - 🌱 I’m currently learning Python for data science.
 - 📫 How to reach me jwahralqtym@gmail.com
 
