@@ -7,7 +7,7 @@
 🌱 I’m currently learning Java and Spring Boot.
 
 ## Skills
-- **Languages**: JavaScript, Python, Java
+- **Languages**: JavaScript, Python, Java.
 - **Frameworks**: React, Django, Spring Boot, Angular
 
 ## Contact Me
